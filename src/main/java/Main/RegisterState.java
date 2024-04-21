@@ -1,0 +1,9 @@
+package Main;
+
+public enum RegisterState {
+	SUCCESS,
+	CONFIRMPASSERR,
+	PASSERR,
+	EMAILNOTVALID,
+	USERNAMENOTVALID;
+}
